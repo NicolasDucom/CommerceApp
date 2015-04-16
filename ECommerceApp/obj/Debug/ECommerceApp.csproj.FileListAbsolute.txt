@@ -1,0 +1,9 @@
+c:\users\nicolas\documents\visual studio 2013\Projects\ECommerceApp\ECommerceApp\bin\Debug\ECommerceApp.exe.config
+c:\users\nicolas\documents\visual studio 2013\Projects\ECommerceApp\ECommerceApp\bin\Debug\ECommerceApp.exe
+c:\users\nicolas\documents\visual studio 2013\Projects\ECommerceApp\ECommerceApp\bin\Debug\ECommerceApp.pdb
+c:\users\nicolas\documents\visual studio 2013\Projects\ECommerceApp\ECommerceApp\obj\Debug\ECommerceApp.csprojResolveAssemblyReference.cache
+c:\users\nicolas\documents\visual studio 2013\Projects\ECommerceApp\ECommerceApp\obj\Debug\ECommerceApp.Form1.resources
+c:\users\nicolas\documents\visual studio 2013\Projects\ECommerceApp\ECommerceApp\obj\Debug\ECommerceApp.Properties.Resources.resources
+c:\users\nicolas\documents\visual studio 2013\Projects\ECommerceApp\ECommerceApp\obj\Debug\ECommerceApp.csproj.GenerateResource.Cache
+c:\users\nicolas\documents\visual studio 2013\Projects\ECommerceApp\ECommerceApp\obj\Debug\ECommerceApp.exe
+c:\users\nicolas\documents\visual studio 2013\Projects\ECommerceApp\ECommerceApp\obj\Debug\ECommerceApp.pdb

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paniers>
+  <Pack>
+    <Nom>Pack cuivre</Nom>
+    <Prix>19 €</Prix>
+    <Produits>
+      <product id="1">
+        <libelle>iPhone 5s 32 Go</libelle>
+        <prix>699</prix>
+        <stock>100</stock>
+        <couleur>noir</couleur>
+        <idpack>1</idpack>
+      </product>
+      <product id="5">
+        <libelle>Coque iPhone 5S</libelle>
+        <prix>39</prix>
+        <stock>100</stock>
+        <couleur>Bleu</couleur>
+        <idpack>1</idpack>
+      </product>
+      <product id="9">
+        <libelle>Casque Beats Audio</libelle>
+        <prix>399</prix>
+        <stock>5</stock>
+        <couleur>Blanc</couleur>
+        <idpack>1</idpack>
+      </product>
+    </Produits>
+  </Pack>
+</Paniers>

@@ -1,0 +1,8 @@
+c:\users\nicolas\documents\visual studio 2013\Projects\ECommerceApp\ECommerceApp\bin\Release\ECommerceApp.exe.config
+c:\users\nicolas\documents\visual studio 2013\Projects\ECommerceApp\ECommerceApp\bin\Release\ECommerceApp.exe
+c:\users\nicolas\documents\visual studio 2013\Projects\ECommerceApp\ECommerceApp\bin\Release\ECommerceApp.pdb
+c:\users\nicolas\documents\visual studio 2013\Projects\ECommerceApp\ECommerceApp\obj\Release\ECommerceApp.Form1.resources
+c:\users\nicolas\documents\visual studio 2013\Projects\ECommerceApp\ECommerceApp\obj\Release\ECommerceApp.Properties.Resources.resources
+c:\users\nicolas\documents\visual studio 2013\Projects\ECommerceApp\ECommerceApp\obj\Release\ECommerceApp.csproj.GenerateResource.Cache
+c:\users\nicolas\documents\visual studio 2013\Projects\ECommerceApp\ECommerceApp\obj\Release\ECommerceApp.exe
+c:\users\nicolas\documents\visual studio 2013\Projects\ECommerceApp\ECommerceApp\obj\Release\ECommerceApp.pdb

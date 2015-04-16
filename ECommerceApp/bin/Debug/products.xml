@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product_catalog>
+	<product id="1">
+		<libelle>iPhone 5s 32 Go</libelle>
+		<prix>699</prix>
+		<stock>100</stock>
+		<couleur>noir</couleur>
+		<idpack>1</idpack>
+	</product>
+		<product id="2">
+		<libelle>Samsung Galaxy S6</libelle>
+		<prix>599</prix>
+		<stock>50</stock>
+		<couleur>Rouge</couleur>
+		<idpack>2</idpack>
+	</product>
+		<product id="3">
+		<libelle>Blackberry Classic</libelle>
+		<prix>499</prix>
+		<stock>31</stock>
+		<couleur>Noir</couleur>
+		<idpack>3</idpack>
+	</product>
+		<product id="4">
+		<libelle>Nokia Lumia 935</libelle>
+		<prix>499</prix>
+		<stock>0</stock>
+		<couleur>Vert pomme</couleur>
+		<idpack>4</idpack>
+	</product>
+		<product id="5">
+		<libelle>Coque iPhone 5S</libelle>
+		<prix>39</prix>
+		<stock>100</stock>
+		<couleur>Bleu</couleur>
+		<idpack>1</idpack>
+	</product>
+		<product id="6">
+		<libelle>Coque Galaxy S6</libelle>
+		<prix>19</prix>
+		<stock>64</stock>
+		<couleur>Noir</couleur>
+		 <idpack>2</idpack>
+	</product>
+		<product id="7">
+		<libelle>Protecto'Blackberry</libelle>
+		<prix>29</prix>
+		<stock>23</stock>
+		<couleur>Transparent</couleur>
+		<idpack>3</idpack>
+	</product>
+		<product id="8">
+		<libelle>Soft case Lumia </libelle>
+		<prix>29</prix>
+		<stock>45</stock>
+		<couleur>bleu</couleur>
+		<idpack>4</idpack>
+	</product>
+		<product id="9">
+		<libelle>Casque Beats Audio</libelle>
+		<prix>399</prix>
+		<stock>5</stock>
+		<couleur>Blanc</couleur>
+		<idpack>1</idpack>
+	</product>
+		<product id="10">
+		<libelle>Focal Spirit One</libelle>
+		<prix>120</prix>
+		<stock>15</stock>
+		<couleur>Blanc
+		</couleur>
+		<idpack>2</idpack>
+	</product>
+		<product id="11">
+		<libelle>Koss Porta Pro</libelle>
+		<prix>89</prix>
+		<stock>65</stock>
+		<couleur>Noir</couleur>
+		<idpack>3</idpack>
+	</product>
+		<product id="12">
+		<libelle>Sennheiser HD25-II</libelle>
+		<prix>179</prix>
+		<stock>32</stock>
+		<couleur>Noir</couleur>
+		<idpack>4</idpack>
+	</product>
+</product_catalog>
